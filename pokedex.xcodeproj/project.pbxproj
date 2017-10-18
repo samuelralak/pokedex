@@ -24,6 +24,7 @@
 		1967A5C11F9744E10096673A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1967A5C41F9744E10096673A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1967A5C61F9744E10096673A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19A7FB7C1F974AE900D5FEAB /* pokemon.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		D65F6634386B2E1AA9442BB1 /* Pods-pokedex.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pokedex.debug.xcconfig"; path = "Pods/Target Support Files/Pods-pokedex/Pods-pokedex.debug.xcconfig"; sourceTree = "<group>"; };
 		F5B4E7F5D1552F1107B9CB69 /* Pods-pokedex.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pokedex.release.xcconfig"; path = "Pods/Target Support Files/Pods-pokedex/Pods-pokedex.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -65,6 +66,7 @@
 				1967A5BC1F9744E10096673A /* ViewController.swift */,
 				1967A5BE1F9744E10096673A /* Main.storyboard */,
 				1967A5C11F9744E10096673A /* Assets.xcassets */,
+				19A7FB7C1F974AE900D5FEAB /* pokemon.csv */,
 				1967A5C31F9744E10096673A /* LaunchScreen.storyboard */,
 				1967A5C61F9744E10096673A /* Info.plist */,
 			);

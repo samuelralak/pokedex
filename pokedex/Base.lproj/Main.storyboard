@@ -102,7 +102,7 @@
                                     </collectionViewCell>
                                 </cells>
                             </collectionView>
-                            <searchBar contentMode="redraw" searchBarStyle="minimal" translatesAutoresizingMaskIntoConstraints="NO" id="9gL-Dz-68G">
+                            <searchBar contentMode="redraw" searchBarStyle="minimal" placeholder="Search Pokemon" translatesAutoresizingMaskIntoConstraints="NO" id="9gL-Dz-68G">
                                 <rect key="frame" x="0.0" y="65" width="320" height="45"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="45" id="hjQ-7L-XFr"/>
@@ -133,6 +133,7 @@
                     </view>
                     <connections>
                         <outlet property="collection" destination="3e7-33-rLc" id="ehr-cm-mZ0"/>
+                        <outlet property="searchBar" destination="9gL-Dz-68G" id="GzM-PF-lvA"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
